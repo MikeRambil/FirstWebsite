@@ -1,0 +1,9 @@
+[core]
+	editor = \"C:\\Users\\Abhishek\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[gui]
+	recentrepo = C:/Users/Abhishek/firstwebsite
+[user]
+	name = mikerambil
+	email = mikerambil@gmail.com
+[pass]
+	word = mikerambil
